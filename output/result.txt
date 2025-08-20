@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-08-20 18:39:04,http://220.169.100.41:10087/udp/239.76.251.87:9000
+2025-08-21 06:34:56,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 
 📺央视频道,#genre#
-CCTV-1,http://220.169.100.41:10087/udp/239.76.251.87:9000
-CCTV-1,http://zqh2333.top:2222/rtp/239.93.24.184:5140
 CCTV-1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
+CCTV-1,http://zqh2333.top:2222/rtp/239.93.24.184:5140
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -22,7 +21,7 @@ CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv1.m3u8
 CCTV-1,http://yc.myds.me:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
-CCTV-2,http://124.116.183.146:9901/tsfile/live/0002_1.m3u8
+CCTV-1,http://yc.myds.me:35455/itv/5000000004000002226.m3u8?cdn=bestzb
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
@@ -42,6 +41,7 @@ CCTV-2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3
 CCTV-2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
 CCTV-2,http://lu.wqwqwq.sbs/itv/1000000001000023315.m3u8?cdn=ystenlive
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=9bacb748dc772b1cfcddf6e6373e3319c6d82105f221862932e3b30a6dc4843c93ace2108ab1d598c2d89ef8eb4225888737ce5895be20612ea7753d025151b9a913bd6fc98ff7666da5979f1d
+CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6c76ed4394c8c43f88aac34dab811cbf99f0534dd0deb2fa6a2515925b7e3485de13876836fa6823e42f5c7304cfe44911416d7ad0312b8fbf012adfe4f735fd37abdd31a3b3e6f645512cd090
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
@@ -62,12 +62,12 @@ CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=d2f5e7c9e37c0b31c1e6
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=e8d38daa280e2049e79abdee2d8546a2afea5b9e9c1a4713b05154116ba5f1133b046c7d4d52fcc0fda414c2208c7aa3a4cf2572926916023730b040718b8a6022093ebfc572f0ea281f1bb0b4
 CCTV-3,http://yc.myds.me:35455/gaoma/cctv3.m3u8
 CCTV-3,http://yc.myds.me:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
-CCTV-4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
 CCTV-4,http://220.169.100.41:10087/udp/239.76.245.195:1234
 CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
-CCTV-4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
-CCTV-4,http://zqh2333.top:2222/rtp/239.93.25.105:5140
 CCTV-4,http://qjrhc.jydjd.top:2911/udp/225.1.101.52:7523
+CCTV-4,http://zqh2333.top:2222/rtp/239.93.25.105:5140
+CCTV-4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
+CCTV-4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,http://goo.bkpcp.top/mg/cctv4o
 CCTV-4,http://goo.bkpcp.top/mg/cctv4m
@@ -223,7 +223,6 @@ CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=b031282d8102da601ef
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=a825f44b603419477b95fed9f1e947fea9e27bcde29c94cf67aec76845bd588aa5c9914b79d29cb3014756c2909a95f0941589b5faaddc8b9eba64ec444d9c9999083bc0240af4f194167d81e3
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=07b6e1d4124dd85ca8138b8d8dcd646323952053748d7d5ac0a2b31dcb6626c605fb05470545bd0f7e0d23e807e6909b517b2b8b5e2eaa926600edaa15d80aee9b900245924108c86040411cd4
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-11,http://124.116.183.146:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
@@ -242,7 +241,7 @@ CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=dfda8acb7dfd1d1149e2e4a381e46a298c47e88f939d7deef7846d6e15f76fc596a0a58e349a64678edbb921fc353b458211c4bbf22e23bb75fd1dc9384d8c251c729958bddd28ec81d8c0922f
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=0889c33c8749b813b28c533d0ceb5e64bdf62396a1f0d2d849b8980a53dc7a8553dda3a862c070fb58ada9d23f299446643d38d44ab5b1506b0ff3a5033bd766ae621fd4e8c886ae46a9905d73
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=16827d54043eba69d051685229b1d0623c01f398f643b3a7d912c9929d6525025ef57eb61666d45bb70dfc86405aa336ca762f0bda4f0284d98eddae4042805df42661f954a1d40820829ec8c2
-CCTV-12,http://124.116.183.146:9901/tsfile/live/0012_1.m3u8
+CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=dbfc420c420e30228efe23e562fc0ee670a65ddac45cc355845b855f27a4e5ba04a7e18d73eb58be7427a4bed6ef9056659fbcf58979a56ccbe84899cfdf0644fc1215333ca6210639196795f2
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
@@ -262,13 +261,13 @@ CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=ff6a5a89e6ad0f73cd7
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=5423237e9d331ddbd254f9b34f235d2d3a581587f12081d6f4dc2e5fd33889675377b585750675d9d08c0a7620fee257f9f2994877ebd92907417411e935c2e49fbcbe53ead412cd81dfa7dfba
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=6da0b98d673331a792733285434b6f75aefe1d72574d51d388f210f853362b7f5cd07a7969ae76778b0d05129f6c205abeb3a168906b638ece23bdde93d5a86f47482052cd9b44f53ceefb2207
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=a099c4781935e65ce141b770794c3b43ae66c9cff99a441ab85b8a676ceb9472ea0e60b610403e97c019904f7c814c2524dc1f8f884664706b7b5a1ce4fd076c7f8c776c9d73f4a0fc12b259f3
+CCTV-12,http://www.freetv.top/migu/673168185.m3u8?migutoken=21a3954b28c73a4240272889ec94c3318c23068f666c79e61379cb154a890e4e7e3c998a578b29a381972f128751898531cb713221ff95385afec91149321ad772e31489fa01e553c8223e976a
 CCTV-13,http://home.yulei.online:9999/rtp/226.0.2.165:9232
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV-13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
@@ -282,6 +281,7 @@ CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=b0ebf450385413f8d70
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=776326ca258673fca618a4f3a2ff6e001516e1bd1de00a273f9321b167eace944b1fea149e58d9f61f99fdcb505524330bcadd896ad46e9264a6c57fcd05b0e7b924e3462804a5228697c43f3f
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=2ea304b199bfe39629418c1d50b3c9f34ba06712c9c7922a614411768b18496280cdfdee913572bdb8d1cdd3d5763460f2f0aea6c7a51095aaf66f1eb8f43ce6edbbeac22c35e78ecc39dbdf27
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=62d2214274cef7d40b4114d45bf7638a556c67cd16bcf313098428f7b9c39529a9409be7e2a892a20359eed6ae89f4458686ab0c3b3d4ca5e2ca54e11342c5719c3a1e0e8af936fe2a1892a5fa
+CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=85d3cf2d1e1511208a2074a3da420becee120fffec82c80e13e533bb191e19cba13d3f9831f111202869da1200838bc62ed7dcc00a437f0c3f013a2f2fbd4d23de657fbc5d9b1b4f432f49b15d
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -302,7 +302,6 @@ CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=85e854e85508f09545d
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=ab4798f1f14300df6bd82662693a13bca4221eb41a68c2446d4c5eb5698887e49f91f026694f31371bc190c16f9cd7e54c61f26e87d09df9aed2e3c5b4c31fa798e2b5f5ba65560ed48591f52a
 CCTV-14,http://yc.myds.me:35455/gaoma/cctv14.m3u8
 CCTV-14,http://yc.myds.me:35455/itv/5000000004000006673.m3u8?cdn=bestzb
-CCTV-15,http://124.116.183.146:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
@@ -322,6 +321,7 @@ CCTV-15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive
 CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 CCTV-15,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
+CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001#http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
@@ -343,7 +343,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CCTV-16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 CCTV-16,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000059&livemode=1&stbId=3
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
-CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8CCTV1
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
@@ -362,6 +361,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac00
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c02d6805bd52cc36e4d16a29031a320eaed60d6d74d5b36653a81c659450938ab30e91f4b27468f176d304463164c178f446ff6d44d623dd787da315c58de6d4d0010bb1
 CCTV-17,http://yc.myds.me:35455/gaoma/cctv17.m3u8
+CCTV-17,http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
@@ -371,7 +371,6 @@ CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u
 CETV-1,http://[2409:8087:74d9:21::6]/270000001128/9900000046/index.m3u8
 CETV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/1.m3u8
 CETV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/1.m3u8
-CETV-1,https://migu.188766.xyz/?migutoken=d32aabdac317a09aceaeb49489342ba6&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=7c7670477a5bc02695824f50bdb125c2&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=38f84c405e60f1d6ec35f2215c70adc2&id=CETV1&type=yy
 CETV-1,http://n1.gzbody.com:85/rtp/239.77.1.222:5146
@@ -382,12 +381,12 @@ CETV-1,https://migu.188766.xyz/?migutoken=1155af51dc62790bedc079efbaa5774b&id=CE
 CETV-1,https://migu.188766.xyz/?migutoken=5fa9d78852bb94fa9a20cc6d83feb8f3&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=38bb9325fb93804444a8f7e0ac37238b&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=282a67fe9b5d20238eb7417a26486dac&id=CETV1&type=yy
+CETV-1,https://migu.188766.xyz/?migutoken=9925e1f7b1d7d9c2e95650be216acdb0&id=CETV1&type=yy
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 CETV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-2,https://migu.188766.xyz/?migutoken=e547c30a2d6957bcff7b808159c81f8f&id=CETV2&type=yy
 CETV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8
 CETV-2,http://[2409:8087:74d9:21::6]/270000001128/9900000071/index.m3u8
 CETV-2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/1.m3u8
@@ -402,6 +401,7 @@ CETV-2,https://migu.188766.xyz/?migutoken=b84adefff909585bd1ed16bd09701cc8&id=CE
 CETV-2,https://migu.188766.xyz/?migutoken=29118a8e5ea20e42c3da4cb173a02f6e&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=daabb689f66c55a135fd7f12959404f5&id=CETV2&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=e45377bb1367b7a1eec5aaa02e1b238b&id=CETV2&type=yy
+CETV-2,https://migu.188766.xyz/?migutoken=5871b51f5d564f6f47ca85de2c065563&id=CETV2&type=yy
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
@@ -411,7 +411,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CETV-4,https://migu.188766.xyz/?migutoken=a686bf53b21f877073f0732ca4fa7337&id=CETV4&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=6411c11399ca3c94c11299a55615e0ec&id=CETV4&type=yy
 CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
 CETV-4,http://[2409:8087:74d9:21::6]/270000001128/9900000072/index.m3u8
@@ -426,6 +425,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=6f7ab839ca21acd85e336c4f4ce248d3&id=CE
 CETV-4,https://migu.188766.xyz/?migutoken=1928b3fc88b54109b4bdbb11f0cc9c65&id=CETV4&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=d74b16fc147dc9f799a51df61f428cab&id=CETV4&type=yy
 CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CETV4&type=yy
+CETV-4,https://migu.188766.xyz/?migutoken=32c6df25d70c2f7390e428e22d244499&id=CETV4&type=yy
 
 💰央视付费频道,#genre#
 文化精品,http://www.xiaomo520.cn:4020/udp/239.252.219.81:5140
@@ -496,7 +496,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.14:5146
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.20:5146
 风云足球,https://live.goodiptv.club/api/yqgd.php
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 电视指南,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 电视指南,http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
@@ -515,10 +514,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 兵器科技,http://n1.gzbody.com:85/rtp/239.253.43.18:5146
 
 📡卫视频道,#genre#
-广东卫视,http://8.138.7.223/tv/hot.php?id=37
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.142:8048
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://106.53.99.30/tv/20250717.php
+广东卫视,http://8.138.7.223/tv/hot.php?id=37
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
 广东卫视,http://goo.bkpcp.top/mg/gdws
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
@@ -555,9 +554,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 香港卫视,https://migu.188766.xyz/?migutoken=ac62e0613b93648d97306ec5a0ed0318&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://migu.188766.xyz/?migutoken=03e8b1156a579dfc38cafd68a3a1f944&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://migu.188766.xyz/?migutoken=e39ed1f00158d364c585e7ee15449023&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
-浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.137:8036###des:1080P###HLS\\n
-浙江卫视,http://124.116.183.146:9901/tsfile/live/0124_1.m3u8
+浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036
@@ -575,9 +573,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 浙江卫视,http://yc.myds.me:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 浙江卫视,http://nas.suntao.online:35455/itv/1000000001000014260.m3u8?cdn=ystenlive
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745938828-xej603c4bgunk0n4qor1kteg02v7wh5k-0-4b5e88f4ea8ecbb292953c08348bb7db
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 湖南卫视,http://joyznm.i234.me:20000/udp/239.3.1.132:8012###des:1080P###HLS\\n
-湖南卫视,http://php.cqshushu.ggff.net/jzb.php?id=hunws&公众号【医工学习日志】
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
@@ -595,9 +593,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 湖南卫视,http://yc.myds.me:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 湖南卫视,http://nas.suntao.online:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://8.138.7.223/tv/bj.php
-北京卫视,http://8.138.7.223/tv/bj.php?id=0001
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
@@ -615,6 +613,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 北京卫视,http://cdn.jdshipin.com:8880/ysp.php?id=bjws
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 湖北卫视,http://joyznm.i234.me:20000/udp/239.3.1.138:8044
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD
 湖北卫视,http://goo.bkpcp.top/mg/hubws
@@ -635,8 +634,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=9e0b6e23bb7725ae05db38e94560710be0065754e80ee0fe715dae0c732fefe350b5f8d87d396729f775bdbbff23ab9be7803bc3259bbcf04aeb009ddf7ef6cc8c478a5721202f4e2a0946836a
 湖北卫视,http://yc.myds.me:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
 湖北卫视,http://yc.myds.me:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
-黑龙江卫视,http://8.138.7.223/tv/hot.php?id=26
 黑龙江卫视,http://php.cqshushu.ggff.net/jzb.php?id=hljws&公众号【医工学习日志】
+黑龙江卫视,http://8.138.7.223/tv/hot.php?id=26
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8
@@ -695,8 +694,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8
 重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
-东方卫视,http://8.138.7.223/tv/hot.php?id=27
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+东方卫视,http://8.138.7.223/tv/hot.php?id=27
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
@@ -715,10 +714,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 东方卫视,http://lu.wqwqwq.sbs/itv/1000000005000265018.m3u8?cdn=ystenlive
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=d81812911755694022
 东南卫视,http://8.138.7.223/tv/hot.php?id=31
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://joyznm.i234.me:20000/udp/239.3.1.156:8148##des:1080P###HLS\\n
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111#http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0#http://39.164.180.36:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0#http://221.2.148.205:8154/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0#http://drive.mxmy.net:8888/udp/239.3.1.156:8148#http://218.89.240.144:59901/tsfile/live/0137_1.m3u8#http://qjrhc.jydjd.top:2911/udp/224.1.100.55:11111
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
@@ -735,7 +733,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227195/index.m3u8
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=57b23005d895a6cd3e15ca214fe62e9cf83a69badc0ce3b833b22fe7eefbfc38e185d5f9539eca0a9cfebc7fd19dbe2b49cc2146019b049ffb948722d504a126278700ecc8a776cc6e8d23507a
-甘肃卫视,http://39.150.96.141:65535/tsfile/live/0141_1.m3u8
+东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=ad40cfb84c6c3a70e2f36f9419fde87147081bd969b8a7c270fde9e9dee90e1aabf8472344c1316a13639f26892f03cd1807f6b81db9976a0212ada2cdc1cdf9f9c01696f6478a7484eb04e6ef
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://j.x.bkpcp.top/jx/GSWS
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
@@ -755,6 +753,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002160/index.m3u8
 甘肃卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?love=freedom
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+甘肃卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://goo.bkpcp.top/mg/gxws
@@ -775,8 +774,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 广西卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225836/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 广西卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225836/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.149:8076
 贵州卫视,http://8.138.7.223/tv/hot.php?id=42
+贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.149:8076
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD
 贵州卫视,http://goo.bkpcp.top/mg/gzws
 贵州卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873471.m3u8
@@ -798,6 +797,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 海南卫视,http://8.138.7.223/tv/hot.php?id=39
 海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 海南卫视,http://221.2.148.205:8154/tsfile/live/1000_1.m3u8
+海南卫视,http://36.105.100.208:35455/itv/5000000004000006211.m3u8
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://goo.bkpcp.top/mg/hinws
 海南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796877.m3u8
@@ -814,7 +814,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4
 海南卫视,http://nas.suntao.online:35455/itv/5000000004000006211.m3u8?cdn=bestzb
 海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 河北卫视,http://8.138.7.223/tv/heb.php?id=0001
 河北卫视,http://8.138.7.223/tv/heb.php
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
@@ -835,12 +834,14 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 河北卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225837/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 河北卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225837/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://1.94.31.214/php/hntv.php
 河南卫视,http://115.190.105.236/daxiang.php?id=hnws
+河南卫视,http://kds.hejintv.com/tv/hn.php
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://tvbox6.icu/tv/migu.php
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e7b8c5667420d092d34c9cb5281555&wsTime=1755738379&wsSession=053c4abd8e6b0e2e4f59d49b-175572760164227&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://j.x.bkpcp.top/jx/HENHD
 河南卫视,http://goo.bkpcp.top/mg/hnws
@@ -853,8 +854,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e125bbfc1f8907f3139f24799d3974f5&wsTime=1746248431
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4e64fa03fd098b19e460c66b6477631f&wsTime=1746205253
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2731cf033dc3c085f1487f4c249e7cca&wsTime=1746161732
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c469be323ad9fdb498b29bc89937e5e1&wsTime=1746108008&wsSession=c24bca6cb007c62337cc245b-174609360883244&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
-河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
 吉林卫视,http://goo.bkpcp.top/mg/jlws
@@ -876,11 +875,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 吉林卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?m3u8_level=2
 江苏卫视,http://8.138.7.223/tv/hot.php?id=28
-江苏卫视,http://8.138.7.223/tv/dl/jstv.php?id=jsws
-江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://joyznm.i234.me:20000/udp/239.3.1.135:8028
 江苏卫视,http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】
-江苏卫视,http://124.116.183.146:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873461.m3u8
@@ -895,8 +892,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227228/index.m3u8
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227552/index.m3u8
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96
-江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.123:8164
+江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=eeab3d17b63b4c7e121ca8b24be0708254418f2e6cf6a24e94e18f79f97719fcea9930b4df2add6349f47b4bbb429f376c6d63c64916f5c43cdc2c87c201be1688d9db3211827c78605443a1f0
+江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=a05a40d6e6ed59e05b38b4ebfaa76f08e8b1477802d7e984802aa4997af44caac8ccf440496662d885f70a6d35fa54f4aa876e2a834e7f5026b626fb250dcc5d14ae02fa6247c3e070d256ea39
 江西卫视,http://8.138.7.223/tv/hot.php?id=32
+江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.123:8164
 江西卫视,http://goo.bkpcp.top/mg/jxws
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 江西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796511.m3u8
@@ -915,9 +914,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=1396615ba32d01d6e6392c1f7673e2f7fa104cab1eb91ddb1891f3e3f0f0278d0391e4de3696a19b8c865d4e2187f070eb215e9aa50bd155530fa7af15a33ede7b50d2021e40f91a75835e73c6
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=e68adbe9de75b7e99dc3afe5aa965084775127e61b76140d0760b54c646a00fb202501f7efbf1cacd66da45725dac5db44885e0bc19831a43d79de05ef08a25bb2a4dc2d09810eb44a95952d05
 江西卫视,http://yc.myds.me:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://8.138.7.223/tv/hot.php?id=24
 辽宁卫视,http://joyznm.i234.me:20000/udp/239.3.1.210:8056
+辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://j.x.bkpcp.top/jx/LIAONHD
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 辽宁卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
@@ -995,9 +994,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=7bfff5cd40297ac2c258f598f97f36a47e8d0d19763d61ff6f62aff98021e7fcafa9b64df934c1ca76302e804fb60ce17856d30a33b7965613665d25cce09f43302170684a7e39c85290af3bd3
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=1f19e5986a0a2ef4e7a8d09edf9a6b8faf270d5320ef4f13eaa876ea8a3ecc2263d1cd2dacb91ceadd6c38af23137707d164462be4cee5d1357c3a8289e0f87ebbce11f5d97c0daa3ac94ae7a1
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-山东卫视,http://8.138.7.223/tv/hot.php?id=33
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://124.116.183.146:9901/tsfile/live/0131_1.m3u8
+山东卫视,http://8.138.7.223/tv/hot.php?id=33
 山东卫视,http://j.x.bkpcp.top/jx/SHANDHD
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873467.m3u8
@@ -1015,6 +1013,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 山东卫视,http://yc.myds.me:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
 山东卫视,http://yc.myds.me:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,http://nas.suntao.online:35455/itv/1000000001000016568.m3u8?cdn=ystenlive
+山东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
 山西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8
@@ -1035,6 +1034,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-hjxDKV.m3u8
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 陕西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8
@@ -1052,7 +1052,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 陕西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
-陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,http://missyao.com:35455/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887404.m3u8
 四川卫视,http://8.138.7.223/tv/hot.php?id=41
@@ -1096,7 +1095,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 深圳卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw207777730_-119365339/ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8?icpid=3&RTS=1674380323&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 三沙卫视,http://8.138.7.223/tv/hot.php?id=55
-三沙卫视,http://8.138.7.223/tv/hainan.php?id=ssws
 三沙卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
@@ -1115,8 +1113,11 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 三沙卫视,http://n1.gzbody.com:85/rtp/239.77.1.117:5146
 三沙卫视,http://lml1971.cn:35455/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u8
+三沙卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227172/index.m3u8
 天津卫视,http://8.138.7.223/tv/hot.php?id=20
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+天津卫视,http://125.42.151.98:9901/tsfile/live/0130_1.m3u8
+天津卫视,http://182.112.188.157:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
@@ -1133,10 +1134,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 天津卫视,http://yc.myds.me:35455/itv/6000000001000009186.m3u8?cdn=wasusyt
 天津卫视,http://nas.suntao.online:35455/itv/5000000004000006827.m3u8?cdn=bestzb
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
-天津卫视,http://cdn.jdshipin.com:8880/ysp.php?id=tjws
 西藏卫视,http://8.138.7.223/tv/hot.php?id=44
-西藏卫视,http://36.105.100.208:35455/itv/6603041244077933770.m3u8
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
@@ -1155,8 +1153,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 西藏卫视,http://live.catvod.com/catvod.php?id=xzws
 西藏卫视,http://tvbox6.com/tv/bfgd.php?id=121
 西藏卫视,http://www.lysvc.cc/daili/xztv.php
+西藏卫视,http://php.jdshipin.com/xztv.php
 新疆卫视,http://8.138.7.223/tv/hot.php?id=49
-新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8
+新疆卫视,http://182.112.188.157:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8#http://8.138.7.223/tv/dl/careryun.php?id=46
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
 新疆卫视,http://goo.bkpcp.top/mg/xjws
@@ -1214,6 +1213,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 广东珠江,http://n1.gzbody.com:85/rtp/239.77.0.1:5146
 广东珠江,http://n1.gzbody.com:85/rtp/239.77.0.114:5146
 广东珠江,http://n1.gzbody.com:85/rtp/239.77.1.94:5146
+广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
@@ -1223,7 +1224,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 广东体育,http://n1.gzbody.com:85/rtp/239.77.0.168:5146
 广东体育,http://php.jdshipin.com/PLTV/iptv.php
 广东体育,http://php.jdshipin.com/TVOD/iptv.php
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
@@ -1409,9 +1410,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
 湖州新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel05/1080p.m3u8
-湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;amp;fbl=
-湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;fbl=
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
+湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+衢州公共,http://120.55.49.231:3095/rtp/233.50.202.12:5140
 衢州新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel08/1080p.m3u8
 金华新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8
 舟山新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel11/1080p.m3u8
@@ -1420,49 +1422,53 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 衢江新闻综合,http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=2027466026-7724b0f948044faa9f0b8d0ecfc275fc-0-dfc23fb7449b475a18a52dc4b796516e
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed"
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed&quot;
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&amp;tpid=1708007815
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&amp;amp;tpid=1708007815
 海宁新闻综合,http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8zzhed
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh
 余杭综合,https://29371.hlsplay.aodianyun.com/lms_29371/slow_channel_master_seat_1445826801.m3u8?auth_key=3300411293-0-0-273f15e1d217965ba192be222ea38b2d&extra_key=V8uEmh_EXr1eVHhCsqQdCb2KQpy3kbF4Lfrf1S8rAZfBbea83rMZ6uqfZL74iDr9sfX_YL2E_25HrvU_mbtZh3ifdtd3R0IP_tWpoeTaMP3EUgp-m3whWwmoBhHzmq7QlJkExjuwjfwj_lLUpyUtp6oiMrocqaUoGIgnjsNh9WM
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
@@ -1470,7 +1476,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-北京卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,http://8.138.7.223/tv/bj.php?id=0007
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
@@ -1540,7 +1545,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://php.jdshipin.com/itv6s.php
 七彩戏剧,http://z.b.bkpcp.top/m.php
-七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
 上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海外语,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8
@@ -1591,7 +1595,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 上海纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 上海纪实,https://hls-gateway.vpstv.net/streams/709570.m3u8
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php
-上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海都市,https://migu.188766.xyz/?migutoken=324d6ad436edd9d962aded10b0b004a5&id=ds&type=sz
 上海都市,https://hls-gateway.vpstv.net/streams/708849.m3u8
 上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
@@ -1637,8 +1640,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8
 东方财经,https://mursor.ottiptv.cc/bst/dfcjhd4m@4000000.m3u8
 东方财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8
-全纪实,http://115.150.63.77:9902/tsfile/live/0001_44.m3u8
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
+东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
@@ -1648,7 +1650,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 动漫秀场,http://lml1971.cn:35455/bst/dmxchd@4000000.m3u8
 动漫秀场,https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php
-动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 哈哈炫动,http://8.138.7.223/tv/hot.php?id=61
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
@@ -1709,7 +1710,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 法治天地,https://mursor.ottiptv.cc/bst/fztd2d5m@2500000.m3u8
 法治天地,http://php.jdshipin.com/itv6.php
 法治天地,http://z.b.bkpcp.top/m.php
-法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 生活时尚,https://mursor.ottiptv.cc/bst/shsshd@4000000.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -1844,7 +1844,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 南京生活,https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 南通新闻综合,https://mursor.ottiptv.cc/migu/955227985.m3u8?migutoken=cdf7a7f66fd23d873fc9f10470456e74fe9a65c596951eb99df617c48ad568002a6af9b28cdc468d8c20b2226a683b722d3188986ced804f98d1ba70840d87eb1b46ff0bc660fdf6cd0e41e0f2
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
-句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
@@ -1862,40 +1861,41 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 徐州新聞綜合,http://z.b.bkpcp.top/m.php
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
+新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
+新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=081040171706199780
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872#http://stream.thmz.com/wxtv2/playlist.m3u8#http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡新闻综合,http://8.138.7.223/tv/dl/jstv.php?id=wx1
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 无锡新闻综合,http://ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
 无锡生活,http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=31414f601706199828
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 江宁新闻,https://migu.188766.xyz/
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1753260070&key=dace197999b4c6e0eb89c2ee9ac1ac4a
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -1983,10 +1983,11 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 泗洪新闻综合,http://stream1.mytaizhou.net/ysyl/playlist.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-泰州三套影视娱乐,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
+泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
+淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
 淮安新闻综合,https://migu.188766.xyz/?migutoken=6cb7409256a7ebadf85f4cb1ab370343&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -2012,7 +2013,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 溧水新闻综合,https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 溧水新闻综合,https://lishui-tv-replay.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 溧水新闻综合,https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=508b60987897e83ec4629ae125eb5b92fcdb44dbfba0192daec25cfd0aca5f7c5688db30e2f0d93b80eaee83ffae490679520a44cdbf87b71bacdd585ff4d25b26e68578bb11c8a16d94662569
-滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁三农,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3159943533_-631245355/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8?icpid=3&RTS=1663018791&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 睢宁综合,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8?icpid=3&RTS=1663228797&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -2027,8 +2027,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 连云港新闻综合,http://z.b.bkpcp.top/m.php
 连云港新闻综合,https://migu.188766.xyz/
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 
 ☘️辽宁频道,#genre#
@@ -2049,27 +2049,34 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 辽宁都市,http://tvbox6.com/tv/bfgd.php?id=610
 
 ☘️湖南频道,#genre#
-湖南都市,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTkxODliNjNjM2U1MzRiNjFlN2IyY2UzYzE0YTk5NGRlJnVpZD0mdXVpZD0wNTRlYmQzNzk3NGUwYzAzNTdjZTcyMzJmOTZmNzczZi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1Njk1Njcy/HNDSMPP360.m3u8
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTFiMTlhMThlYjBhMmZiMTZhYjEzMTYxMzE3MjhlM2E1JnVpZD0mdXVpZD02OWE1NzI3YjVmNTg0NDFjZTE2MThiZWRhMGNhZDVhYS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NzUzNDcw/HNDSMPP360.m3u8
 湖南都市,http://php.jdshipin.com:8880/iptv.php
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南经视,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE2OGViODI5OWVkNTViMWZmODg5NGE4MzIxZDNhOWM2JnVpZD0mdXVpZD1hMTFiZjdhYThkNWVhMjEzYjAyZDg0Y2ZhMmIzNWVjYS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1Njk0ODY5/HNJSMPP360.m3u8
+湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWNlOGJlNzk3ZTgwYzVhNDRjMWJjYjQxZjljN2Q5YTQ3JnVpZD0mdXVpZD1mNTAxNTM5ODc5OWY4MTNjMGJkNjViZTRlODJiM2FmZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NzUzODQw/HNJSMPP360.m3u8
 湖南经视,http://php.jdshipin.com:8880/iptv.php
 湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php
+湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWYyYzJlMDdjYTViYTA3YzYwZWIwMzU4NzBmMGFiMWIyJnVpZD0mdXVpZD1lYjkwZjBmYzg3NzAzNzUyYmE5MDNlNDRmYzBkNjFmNC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NzQ0OTI4/HNDSJMPP360.m3u8
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南电影,http://php.jdshipin.com:8880/iptv.php
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php
-湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWM1OTE3YzY1ZjJiZjYwMThjMzdkZTFlNmJkMjUxM2U4JnVpZD0mdXVpZD0zNDJkNzA0YzYwNTBjYzhkZDQxMjA4NGE0MjVmMTJiYS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1Njg3MTAz/HNGGMPP360.m3u8
+湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
+湖南爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTA1YjYxMTQ0N2FlZDFmMzllZjY0YTE4MWY4YzM2MDE1JnVpZD0mdXVpZD1hMThiMzdiYzYyMDlkNGU5MzA0MWU0MmExMTIyNTRiZC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NzQ4NTA2/HNGGMPP360.m3u8
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php
 湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
+湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南教育,http://php.jdshipin.com:8880/iptv.php
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php
+湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php
 湖南国际,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
+湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
@@ -2085,31 +2092,25 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 金鹰纪实,http://n1.gzbody.com:85/rtp/239.77.0.160:5146
 金鹰纪实,http://n1.gzbody.com:85/rtp/239.77.1.217:5146
 金鹰纪实,https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8
+金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8
 湖南金鹰纪实,http://lml1971.cn:35455/bst/jyjs8m@8000000.m3u8
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8
-湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
+湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 茶陵新闻综合,http://liveplay-nanyue.rednet.cn/live/chaling-telev.m3u8
 
 ☘️湖北频道,#genre#
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8
-湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8
-湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8
-湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8
-湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8
-湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8
-湖北公共,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 崇阳新闻综合,http://61.184.176.248:10500/live/live.m3u8
 保康新闻综合,http://bktvplay.gdnewmedia.cc/bktv/bktv001.m3u8?auth_key=1715157778-0-0-2a5aee0bfaeff717537ec0ef8a1e1567
@@ -2118,29 +2119,39 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd#http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
+凌云综合,https://live.gxrb.com.cn/gx/lingyun/index.m3u8
+北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 南宁公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+博白综合,http://live.gxrb.com.cn/hls/a22/index.m3u8
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 昭平综合,rtmp://live.gxrb.com.cn/gx/zhaoping
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
+融水综合,https://live.gxrb.com.cn/gx/rongshui/index.m3u8
+龙州综合,https://live.gxrb.com.cn/gx/longzhou/index.m3u8
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
+桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 南宁影视娱乐,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8
+南宁影视娱乐,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&amp;amp;wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&amp;amp;wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&amp;amp;wsiphost=local&amp;amp;wsBindIP=1
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&amp;wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&amp;wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&amp;wsiphost=local&amp;wsBindIP=1
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 天津都市,http://nas.hssvm.com:8888/udp/225.1.1.128:5002
 天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
@@ -2174,11 +2185,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
-双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd,
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw
-叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 四川科教,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/304
@@ -2192,7 +2202,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 平昌新闻综合,http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 康定综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
-康巴卫视,http://36.105.100.208:35455/itv/1000000005000266002.m3u8
 康巴卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -2204,27 +2213,26 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8
 康巴卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,https://mursor.ottiptv.cc/gptv/G_KANGBA.m3u8
-康巴卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-康巴卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225856/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
+德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 旺苍新闻综合,rtmp://tv.wcrmt.cn/channellive/ch1
 旺苍新闻综合,http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
+汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd
 汶川新闻综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
@@ -2236,6 +2244,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 邻水新闻综合,http://live2.gatv.com.cn:86/live/LS_HD.m3u8
 金堂电视台,http://8.138.7.223/tv/cditv.php?id=jttv
@@ -2245,7 +2254,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd#http://cnpull.sccnfb.com:80/live/123456.m3u8
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
-青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd
 马尔康综合,rtmp://live.zmmek.com/live/zhxw
 
 ☘️陕西频道,#genre#
@@ -2275,7 +2283,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 陕西体育休闲,https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=1d40dcfa214bedae06096687a638e0fe147c17788f4ea64d8df6263a728f2dbaa6bc965958ae3a6f1abd5579402d9b36b5c195a44c526dcdec9aacf02b33727f7360e4c2310dcb35090d17916d
 陕西影视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 陕西影视,http://php.jdshipin.com:8880/qly.php
-陕西影视,http://php.jdshipin.com:8880/qly.php?id=6329
 
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -2283,7 +2290,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-厦门卫视,http://125.42.151.98:9901/tsfile/live/0125_1.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 厦门卫视,http://goo.bkpcp.top/mg/xmws
 厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
@@ -2303,8 +2310,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 厦门卫视,http://n1.gzbody.com:85/rtp/239.77.0.96:5146
 厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226964/index.m3u8
 厦门卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226964/index.m3u8
+厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
@@ -2353,68 +2362,98 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 梨园,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=6850f2799669ffae8975c6c520843e15&wsTime=1755190818
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8#http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8#http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8#http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 卫辉综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
 卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8#http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8#
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8#http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend#http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8#http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8#http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8#http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8#http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8#http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?zhend
 泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8#http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8#http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 焦作综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
 登封综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226661/index.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8#http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8#http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
 西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8#http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8#http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8#http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 鹤壁综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226563/index.m3u8
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 许昌公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8
 荥阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8#http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 焦作教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
 焦作公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 濮阳公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洛阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
@@ -2466,50 +2505,61 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8#http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8#http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8#http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
+新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 开封新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
 开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 开封文化旅游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
 开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
+开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
 嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
 嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhendhttp://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
 宜阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8#http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8#http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8#http://live.dxhmt.cn:9081/tv/11325-1.m3u8
+内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
+偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 
 ☘️河北频道,#genre#
 鹿泉一套,http://8.138.7.223/tv/heb.php?id=2002
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/zb/luquanyi/1500k/tzwj_video.m3u8
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 邯郸科技教育,http://8.138.7.223/tv/heb.php?id=0402
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8
-邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
 邯郸公共,http://8.138.7.223/tv/heb.php?id=0403
 邯郸公共,https://jwcdnqx.hebyun.com.cn/zb/hdgg/1500k/tzwj_video.m3u8
 邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
-邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸新闻,http://bclivepull.handannews.com.cn/BClive/NewsBroadcast.m3u8
 邯郸科教,https://jwcdnqx.hebyun.com.cn/zb/hdkj/1500k/tzwj_video.m3u8
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,http://8.138.7.223/tv/heb.php?id=0501
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-河北都市,http://8.138.7.223/tv/heb.php?id=0003
-河北都市,http://8.138.7.223/tv/heb.php?id=00031
 河北都市,http://8.138.7.223/tv/heb.php?id=00032
+河北都市,http://8.138.7.223/tv/heb.php?id=0003
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 河北都市,http://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
@@ -2527,6 +2577,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1753565136&key=ba00ebc26f147c762788196e739f4518
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1753608773&key=813040a878b5de22c0a3dfaa702695e9
 河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1754133914&key=04c61c83478bdc981b23d127821b9570
+河北都市,https://live.lalifeier.eu.org/hebtv/hbds.m3u8?t=1754169951&key=2539c6efbac8d2fd4b46907c81a52cbe
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北农民,http://ls.qingting.fm/live/1650.m3u8
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
@@ -2558,6 +2609,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8#https://ls.qingting.fm/live/5022203/64k.m3u8
@@ -2587,7 +2639,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 白银综合,rtmp://play.kankanlive.com/live/1720408089419110
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
-秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 西峰综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 酒泉综合,https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
@@ -2600,21 +2651,21 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
-伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd#http://110.153.180.106:55555/out_2/index.m3u8
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd#http://110.153.180.106:55555/out_3/index.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
+兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 兵团八师石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
 兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd#http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 新疆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
@@ -2666,24 +2717,28 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
 济南教育,http://live.jnjyapp.cn/live/jneduzb.m3u8
-青州电视台文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州电视台新闻综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
+青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd#http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8#rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
 济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8
-日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8
-日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
 日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8
-日照科教,http://live.rzw.com.cn/ggpd/sd/live.m3u8?shandd
+烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+烟台新闻综合,http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
@@ -2693,6 +2748,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0#https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
@@ -2779,17 +2835,15 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
-怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
-武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8
 长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
-长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 长治公共,http://live.njgdmm.com/changzhi/cztv2.m3u8
 阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8
-阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️安徽频道,#genre#
@@ -2873,15 +2927,15 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1754559369&key=1104e0851bc00a0e7bfc0c2215eba121
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1754602006&key=60629225bf78f418dc2bc226bf088800
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1754645803&key=94513304d54d4b35d90fecabd3cfe7db
-安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd#http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd#http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#http://www.guzhenm.com:7001/hls/hd-live.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#http://www.guzhenm.com:7001/hls/hd-live.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd#http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
+黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 阜南新闻综合,https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
@@ -2890,6 +2944,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
 滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
@@ -2899,6 +2954,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 宿松新闻综合,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd
 宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
@@ -2924,7 +2980,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8
 延边卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,https://mursor.ottiptv.cc/gptv/G_YANBIAN.m3u8
-延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1753435959&key=4a52c2d3f0f295afd29e1b263f3c9398
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1753471449&key=6762bd8d023d88c4ea61cc35325be7cc
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1753482457&key=364568913320339a8ae18eab0af6553a
@@ -2989,10 +3044,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
@@ -3002,9 +3055,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 双辽综合,http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
 
@@ -3018,37 +3071,30 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 
 ☘️云南频道,#genre#
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8
-屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
 峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8
 峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8?zyund
 广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
 开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8
-开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund#http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund#http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
+文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 施甸综合,http://live.ynurl.com/video/s10048TV/index.m3u8
-施甸综合,http://live.ynurl.com/video/s10048-SDTV/index.m3u8
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 普洱新闻综合,https://zhibo.puerw.cn/puer/c752b300-602c-4083-8c5e-f6bb97b58f2d.m3u8
 梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8
-梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8
-瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
 盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8
-盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8
-石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
 红河州新闻综合,https://live.hh.cn/hhtv1/index.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
-腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
@@ -3139,13 +3185,13 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江文体,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -3155,7 +3201,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 黑龙江文体,http://[2409:8087:1a01:df::4025]/TVOD/88888888/224/3221225965/main.m3u8
 黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php
 黑龙江文体,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+黑龙江文体,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江新闻法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江新闻法治,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
 黑龙江新闻法治,https://ls.qingting.fm/live/4974/64k.m3u8
@@ -3164,7 +3211,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php
 黑龙江新闻法治,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
 黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
@@ -3176,7 +3222,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php
 黑龙江影视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226301/index.m3u8
@@ -3189,7 +3235,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 黑龙江都市,http://[2409:8087:1a01:df::4055]/TVOD/88888888/224/3221225969/main.m3u8
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php
 黑龙江都市,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+黑龙江都市,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
@@ -3202,30 +3248,29 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php
 黑龙江少儿,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+黑龙江少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 黑龙江新闻,http://[2409:8087:1a01:df::4045]/TVOD/88888888/224/3221225967/main.m3u8
 黑龙江科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226242/index.m3u8
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php
-哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 哈尔滨生活,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php
 鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
+鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
+鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河新闻综合,rtmp://masterpull.hljtv.com/live/9FZ7k2XF
 佳木斯新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php
 佳木斯新闻综合,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 佳木斯新闻综合,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 齐齐哈尔新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php
@@ -3233,10 +3278,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php
 翡翠台,http://8.138.7.223/tv/gdmzyd.php?id=1
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -3253,6 +3296,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
@@ -3267,10 +3312,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com:8880/iptv.php
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4
-凤凰中文,http://220.169.100.41:10087/udp/239.76.253.134:9000
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
+凤凰中文,http://220.169.100.41:10087/udp/239.76.253.134:9000
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -3287,9 +3331,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,https://fenghuang.tv12.xyz/166.m3u8
 凤凰中文,http://free.cnlive.club/channel/n496e6eec/index.m3u8?q=1752629214236
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰资讯,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -3307,7 +3351,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,https://fenghuang.tv12.xyz/169.m3u8
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb/index.m3u8?q=1752629214236
-凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
@@ -3327,6 +3371,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 凤凰香港,https://hls-gateway.vpstv.net/streams/476960.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -3334,12 +3379,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=bc3180e2c8f5d42d17497006e11d0e35&id=CE
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://iptv.4666888.xyz/iptv.php?id=20190
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=2939a3424b8f4c363a5ca533c83aaa8f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
@@ -3360,11 +3403,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港卫视,https://migu.188766.xyz/?migutoken=ac62e0613b93648d97306ec5a0ed0318&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://migu.188766.xyz/?migutoken=03e8b1156a579dfc38cafd68a3a1f944&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://migu.188766.xyz/?migutoken=e39ed1f00158d364c585e7ee15449023&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,http://iptv.4666888.xyz/iptv.php?id=20225
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -3373,12 +3415,12 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://smart.pendy.dpdns.org/Smart.php
 纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来育乐,http://free.cnlive.club/channel/581c988d/index.m3u8?q=1752629214236
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php
-三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8?q=1752629214236
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
@@ -3387,7 +3429,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php
 无线新闻,http://cdn9.163189.xyz/smt1.1.php
-三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
 三立新闻,https://tv.iill.top/4gtv/229
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
@@ -3395,31 +3438,26 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php
 三立新闻,https://live.iill.top/youtube/MV9mI0GChwo
 三立新闻,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
 东森综合,http://free.cnlive.club/channel/n31b0a4/index.m3u8?q=1752629214236
 东森综合,https://smart.pendy.dpdns.org/Smart.php
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
-东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://free.cnlive.club/channel/4210df69/index.m3u8?q=1752629214236
 东森超视,https://smart.pendy.dpdns.org/Smart.php
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
+东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
 东森电影,http://free.cnlive.club/channel/7cb9a434.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://free.cnlive.club/channel/n5502f4/index.m3u8?q=1752629214236
-东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 
 🎬电影频道,#genre#
 CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443
-CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/225.1.101.192:7523
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,http://eastscreen.tv/ooooo.php
@@ -3437,6 +3475,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=d6f02bea7785e9c162cac828ee50b
 CHC家庭影院,https://migu.188766.xyz/?migutoken=4607a647d95b375555d92d0dd3227253&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
 CHC家庭影院,https://migu.188766.xyz/?migutoken=63ae73dc4ac37a58d6dc2a95b95cc42d&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
 CHC家庭影院,https://migu.188766.xyz/?migutoken=19a8ee05e00e1ed0c4f62c2e9f7e5b37&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC家庭影院,https://tv-1.iill.top/migu/chcjt
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396
 CHC动作电影,http://z.b.bkpcp.top/m.php
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
@@ -3460,22 +3499,20 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
-淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
-淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://missyao.com:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/000000001000/7151256057701199617/1.m3u8
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php
+NewTV惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000024282/1.m3u8
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
@@ -3503,7 +3540,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php
 纬来电影,http://free.cnlive.club/channel/581b458b/index.m3u8?q=1752629214236
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 靖天戏剧,http://serv00.bkpcp.top/litv3.php
-经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
@@ -3513,23 +3549,19 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线星河,http://php.jdshipin.com/smt.php
-无线星河,http://php.jdshipin.com/PLTV/iptv.php
-星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,https://hls-gateway.vpstv.net/streams/709267.m3u8
 东森电影,http://free.cnlive.club/channel/7cb9a434.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://free.cnlive.club/channel/n5502f4/index.m3u8?q=1752629214236
-东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 东森洋片,http://free.cnlive.club/channel/n7160b4/index.m3u8?q=1752629214236
 东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 东森超视,http://free.cnlive.club/channel/4210df69/index.m3u8?q=1752629214236
 东森超视,https://smart.pendy.dpdns.org/Smart.php
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 
 🎥咪咕直播,#genre#
 咪咕直播1,http://36.105.100.208:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
@@ -3621,7 +3653,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 广东体育,http://n1.gzbody.com:85/rtp/239.77.0.168:5146
 广东体育,http://php.jdshipin.com/PLTV/iptv.php
 广东体育,http://php.jdshipin.com/TVOD/iptv.php
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -3630,6 +3662,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 纬来体育,https://smart.pendy.dpdns.org/Smart.php
 纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://migu.188766.xyz/?migutoken=9c8e6f2a251ca312f0f8c226d2108843&id=wxty&type=sz
@@ -3662,10 +3695,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 劲爆体育,https://live.goodiptv.club/api/yqgd.php
 劲爆体育,https://live.v1.mk/api/ghyx.php
 劲爆体育,https://live.v1.mk/api/bestv.php
-劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
-劲爆体育,https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667
 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8
 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8
 爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
@@ -3681,7 +3711,8 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8
 超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://[2409:8087:1a01:df::4013]/TVOD/88888888/224/3221225635/main.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
+超级体育,http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
@@ -3778,6 +3809,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
 睛彩篮球,http://n1.gzbody.com:85/rtp/239.77.1.21:5146
+睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8
@@ -3794,7 +3826,6 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.14:5146
 风云足球,http://n1.gzbody.com:85/rtp/239.253.43.20:5146
 风云足球,https://live.goodiptv.club/api/yqgd.php
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 魅力足球,http://8.138.7.223/tv/migu.php?id=mlzq
 魅力足球,http://goo.bkpcp.top/mg/mlzq
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
@@ -3804,9 +3835,7 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 魅力足球,http://gat.bkpcp.top/ymg.php
 魅力足球,https://tv.fanmingming.com/api/v6
 魅力足球,https://www.freetv.top/migu/796070308.m3u8
-魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
-魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d522c1338ee1ffd14316eea89e461d4e31e29395a265a9f1ec26b947fb0e7dc16296db47ae3bfea73caaee6901d17bfede63775878c0ab44c872939ba5b53baf
 天元围棋,https://live.lizanyang.top/tv/书画.png"
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
@@ -3817,14 +3846,23 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 快乐垂钓,http://www.qhjx.top:18000/udp/238.255.2.191:5999
 快乐垂钓,https://mursor.ottiptv.cc/bst/klcdhd4m@4000000.m3u8
 快乐垂钓,http://php.jdshipin.com/itv6.php
-快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
-卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
@@ -3834,12 +3872,10 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动漫秀场,http://lml1971.cn:35455/bst/dmxchd@4000000.m3u8
 动漫秀场,https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php
-动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 青春动漫,http://lml1971.cn:35455/bst/qcdmvcc4m@4000000.m3u8
 青春动漫,https://mursor.ottiptv.cc/bst/qcdmvcc4m@4000000.m3u8
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8
 青春动漫,https://live.v1.mk/api/bestv.php
-青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
@@ -3847,8 +3883,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 宝宝动画,http://lml1971.cn:35455/bst/bbdhvcc4m@4000000.m3u8
 宝宝动画,https://mursor.ottiptv.cc/bst/bbdhvcc4m@4000000.m3u8
 宝宝动画,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288002/index.m3u8
-CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 优漫卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8
 优漫卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8
@@ -3871,7 +3907,6 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 优漫卡通,http://n1.gzbody.com:85/rtp/239.77.1.79:5146
 优漫卡通,https://migu.188766.xyz/?migutoken=5281e3256b6e74cf3a271dfe0b07eb74&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
 金鹰卡通,http://8.138.7.223/tv/hot.php?id=63
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWFiNDU3NTkyYTcwMjE3MTg0MDEzMTdiYjVlOTNlMjc4JnVpZD0mdXVpZD1iZjRiYTIxMjQ2ZTkwNzdlN2JmYzk0ZTQ5OGIxOWJhOS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzU1NzAwMjQ2/JYKTMPP360.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
@@ -3904,12 +3939,10 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/000000001000/6497762188035533951/1.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
-黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
-黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿科教,http://8.138.7.223/tv/heb.php?id=0005
-河北少儿科教,http://8.138.7.223/tv/heb.php?id=00051
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2#http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c#rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
 七龙珠,http://live.iill.top/huya.php?id=11601966
@@ -3920,7 +3953,6 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 中华小当家,https://live.iill.top/huya/11342413
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php
-猫和老鼠,http://live.iill.top/huya.php?id=11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -3935,9 +3967,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 游戏风云,http://z.b.bkpcp.top/m.php
 游戏风云,http://gat.bkpcp.top/ymg.php
 游戏风云,https://www.freetv.top/migu/790188417.m3u8
-游戏风云,http://gat.bkpcp.top/ymg.php?id=yxfy
-游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 电竞天堂,http://lml1971.cn:35455/bst/djttvcc4m@4000000.m3u8
 电竞天堂,https://mursor.ottiptv.cc/bst/djttvcc4m@4000000.m3u8
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8
@@ -3983,50 +4013,45 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 笑傲江湖,https://live.metshop.top/yy/1354936128
 笑傲江湖,https://live.metshop.top/yy/1354930909
 笑傲江湖,http://live.iill.top/yy.php
-笑傲江湖,http://live.iill.top/yy.php?id=1354282410
+笑傲江湖,http://live.iill.top/huya.php?id=26355790
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,https://www.goodiptv.club/yy/1382749944
 天龙八部,https://live.metshop.top/yy/1351814644
 天龙八部,http://live.iill.top/yy.php
-天龙八部,http://live.iill.top/yy.php?id=1351814644
+天龙八部,http://live.iill.top/huya.php?id=23903123
 鹿鼎记,https://lunbo.freetv.top/yy/1382736920
 鹿鼎记,https://live.metshop.top/yy/28265277
 鹿鼎记,https://live.metshop.top/huya/23865080
 鹿鼎记,http://live.iill.top/yy.php
-鹿鼎记,http://live.iill.top/yy.php?id=1382704650
+鹿鼎记,http://live.iill.top/huya.php?id=23865080
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 仙剑奇侠传,http://live.iill.top/yy.php
-仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 三国演义,https://live.iill.top/huya/11602081
 三国演义,https://www.goodiptv.club/yy/32788000
 三国演义,https://live.metshop.top/yy/32788000
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,http://live.iill.top/yy.php
-三国演义,http://live.iill.top/yy.php?id=1354936241
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,http://live.iill.top/yy.php
-新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
 济公游记,https://www.goodiptv.club/yy/1355265814
 济公游记,http://live.iill.top/yy.php
-济公游记,http://live.iill.top/yy.php?id=1355265814
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,https://live.iill.top/huya/23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,https://live.metshop.top/yy/1353426319
 封神榜,https://live.metshop.top/yy/1356043643
 封神榜,http://live.iill.top/yy.php
-封神榜,http://live.iill.top/yy.php?id=1353426319
+封神榜,http://live.iill.top/huya.php?id=23749096
 上海滩,https://www.goodiptv.club/yy/1382745184
 上海滩,https://live.metshop.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php
-上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,https://live.metshop.top/yy/40959929
 射雕英雄传,http://live.iill.top/huya.php?id=23824164
